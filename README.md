@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gangathecoder425@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13HCd41Cfd1uiyQ7Fyt99tUfrvkWQHkd6/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12KcRwAzQ2FEAU4WDh4PYM4U80m1pvsP5/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
