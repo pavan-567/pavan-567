@@ -14,8 +14,7 @@
 
 - 📫 How to reach me **gangathecoder425@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12KcRwAzQ2FEAU4WDh4PYM4U80m1pvsP5/view?usp=drive_link)
-
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Vddg67jRIg_bfwINg6rz-r2Xc8P7Jj4f/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gangadhar-kaja-1b7535270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gangadhar-kaja-1b7535270" height="30" width="40" /></a>
