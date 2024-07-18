@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-567&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-567" /> </p>
 
-- 🔭 I’m currently working on **Todo App**
+- 🔭 I’m currently working on **Food Delivery App**
 
 - 🌱 I’m currently learning **React and Next JS**
 
